@@ -1,0 +1,20 @@
+Le principe du projet blackboard est de construire le back office d’un site e-commerce de trottinettes.
+
+Lors de cette seconde journée, vous allez récupérer les fonctions que vous avez codées hier mais vous devrez importer 
+une nouvelle base de données en la connectant à votre application et en écrivant les schéma et les modèles vous-même.
+
+
+L’objectif sera de vérifier que vos fonctions se lancent toujours correctement et d’en coder d’autres vous permettant de manipuler les nouvelles collections ajoutées.
+
+
+Voici l’usage des nouvelles fonctions :
+
+
+displayAllUsers : doit afficher la liste de tous les utilisateurs de la collection users dans votre terminal.
+deleteUser : doit supprimer un utilisateur en ciblant son ID.
+displayAllOrders : doit afficher la liste de toutes les commandes de la collection orders dans votre terminal.
+updateOrderPayment : doit mettre à jour le statut de paiement (paid: true) d’une commande en ciblant son ID.
+deleteOrder : doit supprimer une commande en ciblant son ID.
+
+
+
